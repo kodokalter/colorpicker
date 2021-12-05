@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+.btn{
+    width: 130px;
+}
+.container{
+    text-align: center;
+}
+.color-name{
+    text-align: center;
+    color: white;
+}
